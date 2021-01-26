@@ -1,0 +1,4 @@
+% layout 'default';
+% title 'WebWorker Bar';
+
+<p>Message: <%= $msg %></p>

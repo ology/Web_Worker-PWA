@@ -1,0 +1,22 @@
+{
+  "name": "WebWorker",
+  "short_name": "WebWorker",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "purple",
+  "background_color": "purple",
+  "description": "A web-worker test app.",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "splash.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

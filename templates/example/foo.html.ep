@@ -1,0 +1,4 @@
+% layout 'default';
+% title 'WebWorker Foo';
+
+<p>Message: <%= $msg %></p>
